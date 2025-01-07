@@ -1,0 +1,12 @@
+C:\Users\USER\Desktop\alkonost.app\Alkonost.Core\obj\Debug\net7.0\Alkonost.Core.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\alkonost.app\Alkonost.Core\obj\Debug\net7.0\Alkonost.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\alkonost.app\Alkonost.Core\obj\Debug\net7.0\Alkonost.Core.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\alkonost.app\Alkonost.Core\obj\Debug\net7.0\Alkonost.Core.AssemblyInfo.cs
+C:\Users\USER\Desktop\alkonost.app\Alkonost.Core\obj\Debug\net7.0\Alkonost.Core.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\alkonost.app\Alkonost.Core\bin\Debug\net7.0\Alkonost.Core.deps.json
+C:\Users\USER\Desktop\alkonost.app\Alkonost.Core\bin\Debug\net7.0\Alkonost.Core.dll
+C:\Users\USER\Desktop\alkonost.app\Alkonost.Core\bin\Debug\net7.0\Alkonost.Core.pdb
+C:\Users\USER\Desktop\alkonost.app\Alkonost.Core\obj\Debug\net7.0\Alkonost.Core.dll
+C:\Users\USER\Desktop\alkonost.app\Alkonost.Core\obj\Debug\net7.0\refint\Alkonost.Core.dll
+C:\Users\USER\Desktop\alkonost.app\Alkonost.Core\obj\Debug\net7.0\Alkonost.Core.pdb
+C:\Users\USER\Desktop\alkonost.app\Alkonost.Core\obj\Debug\net7.0\ref\Alkonost.Core.dll

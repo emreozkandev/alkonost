@@ -1,0 +1,5 @@
+C:\Users\USER\Desktop\alkonost.app\Alkonost.Core\obj\Debug\net9.0\Alkonost.Core.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\alkonost.app\Alkonost.Core\obj\Debug\net9.0\Alkonost.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\alkonost.app\Alkonost.Core\obj\Debug\net9.0\Alkonost.Core.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\alkonost.app\Alkonost.Core\obj\Debug\net9.0\Alkonost.Core.AssemblyInfo.cs
+C:\Users\USER\Desktop\alkonost.app\Alkonost.Core\obj\Debug\net9.0\Alkonost.Core.csproj.CoreCompileInputs.cache
