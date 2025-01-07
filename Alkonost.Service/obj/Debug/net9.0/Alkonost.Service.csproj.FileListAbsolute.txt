@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\alkonost.app\Alkonost.Service\obj\Debug\net9.0\Alkonost.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\alkonost.app\Alkonost.Service\obj\Debug\net9.0\Alkonost.Service.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\alkonost.app\Alkonost.Service\obj\Debug\net9.0\Alkonost.Service.AssemblyInfo.cs
+C:\Users\USER\Desktop\alkonost.app\Alkonost.Service\obj\Debug\net9.0\Alkonost.Service.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\alkonost.app\Alkonost.Service\obj\Debug\net9.0\Alkonost.Service.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\alkonost.app\Alkonost.Service\bin\Debug\net9.0\Alkonost.Service.deps.json
+C:\Users\USER\Desktop\alkonost.app\Alkonost.Service\bin\Debug\net9.0\Alkonost.Service.dll
+C:\Users\USER\Desktop\alkonost.app\Alkonost.Service\bin\Debug\net9.0\Alkonost.Service.pdb
+C:\Users\USER\Desktop\alkonost.app\Alkonost.Service\bin\Debug\net9.0\Alkonost.Core.dll
+C:\Users\USER\Desktop\alkonost.app\Alkonost.Service\bin\Debug\net9.0\Alkonost.Core.pdb
+C:\Users\USER\Desktop\alkonost.app\Alkonost.Service\obj\Debug\net9.0\Alkonost.57AB0B97.Up2Date
+C:\Users\USER\Desktop\alkonost.app\Alkonost.Service\obj\Debug\net9.0\Alkonost.Service.dll
+C:\Users\USER\Desktop\alkonost.app\Alkonost.Service\obj\Debug\net9.0\refint\Alkonost.Service.dll
+C:\Users\USER\Desktop\alkonost.app\Alkonost.Service\obj\Debug\net9.0\Alkonost.Service.pdb
+C:\Users\USER\Desktop\alkonost.app\Alkonost.Service\obj\Debug\net9.0\ref\Alkonost.Service.dll
